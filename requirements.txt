@@ -1,0 +1,10 @@
+jupyter
+pandas
+numpy
+matplotlib
+scikit-learn
+plotly
+seaborn
+nltk
+pami
+umap-learn
